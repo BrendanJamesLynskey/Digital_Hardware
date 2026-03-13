@@ -17,6 +17,14 @@ A collection of synthesisable RTL designs and educational resources covering CPU
 |---------|-------------|
 | [Integer Dividers](https://github.com/BrendanJamesLynskey/Integer_dividers) | Five SystemVerilog divider architectures — restoring, non-performing, non-restoring, SRT radix-4, and Newton-Raphson |
 | [Floating-Point Dividers](https://github.com/BrendanJamesLynskey/Floating_Point_Dividers) | Six IEEE 754 FP32 divider architectures — restoring, non-restoring, SRT-2, SRT-4, Newton-Raphson, and Goldschmidt |
+| [CORDIC](https://github.com/BrendanJamesLynskey/CORDIC) | Synthesisable SystemVerilog implementations of the CORDIC algorithm |
+| [Neural Network Data Types](https://github.com/BrendanJamesLynskey/NN_data_types) | SystemVerilog implementations of 9 numerical formats (FP32 down to FP4) used in NN training and inference hardware |
+
+## ML Accelerator Hardware
+
+| Project | Description |
+|---------|-------------|
+| [Transformer Decoder — RTL Accelerator](https://github.com/BrendanJamesLynskey/LLM_Transformer_Decoder_RTL) | Synthesisable SystemVerilog implementation of a pre-norm decoder block with KV-cache, plus full verification suite (83 tests) |
 
 ## SoC Design
 
